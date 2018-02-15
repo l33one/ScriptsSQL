@@ -1,8 +1,8 @@
 /*
-Script T-SQL para finalizar varias sessões no banco de dados de uma aplicação especifica
+Script T-SQL para finalizar todos os processos no banco de dados de uma aplicaÃ§Ã£o especifica
 
-CREATE BY Leewan Meneses
-DATE CREATE 21/08/2017
+CRIADO POR Leewan Meneses
+CRIADO EM 21/08/2017
 */
 
 SET NOCOUNT ON;
